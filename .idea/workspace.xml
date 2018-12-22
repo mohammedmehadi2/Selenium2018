@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da280fd2-637c-4119-8ff8-0dc5b37054e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Homework1/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework1/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/out/production/Homework3/Abstract/Abstract1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/out/production/Homework3/Abstract/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/out/production/Homework3/Abstract/Interface1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/src" beforeDir="false" afterPath="$PROJECT_DIR$/Homework3/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MapPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midtermpreparation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Midtermpreparation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestedLoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NestedLoops/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +60,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -66,12 +72,6 @@
               <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclipse-workspace" type="462c0819:PsiDirectoryNode" />
               <item name="Encapsulation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="Encapsulation" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
@@ -130,6 +130,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,6 +198,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3298122" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -222,13 +224,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Encapsulation/bin/Office.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Encapsulation/bin/Office.class" />
     <entry file="file://$PROJECT_DIR$/InterfaceAndAbstract/src/Testclass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -236,9 +232,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Encapsulation/bin/TestOffice.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Encapsulation/bin/TestOffice.class" />
     <entry file="file://$PROJECT_DIR$/InterfaceAndAbstract/src/Interface1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>

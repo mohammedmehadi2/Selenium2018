@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="007fc612-3487-40e3-b3e4-6ece2eef732b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework3/src" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midtermpreparation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Midtermpreparation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NestedLoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NestedLoops/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,7 +95,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544909675866" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544985802370" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,7 +161,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919955" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
